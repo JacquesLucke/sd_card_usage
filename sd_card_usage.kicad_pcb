@@ -1496,7 +1496,7 @@
 			(uuid "5e94158e-576f-49bb-a832-dcc8b3876699")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\mail\\Documents\\KiCad_Libraries_Extra\\library_loader\\SamacSys_Parts.3dshapes\\DM3AT-SF-PEJM5.stp"
+		(model "${KIPRJMOD}/DM3AT-SF-PEJM5.stp"
 			(offset
 				(xyz 0 -0.5699999843 0.8399999612)
 			)
